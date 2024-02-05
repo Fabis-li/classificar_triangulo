@@ -9,15 +9,6 @@ Teste para Academia do Programador
 - Javascript
 - lógica de programação
 - Node.JS
-  
-### Recursos utilizados
-
-
-## Pré-Requisitos
-
-Antes de começar, certifique-se de ter instalado em sua máquina:
-
-- [Node.js](https://nodejs.org/) - Um ambiente de tempo de execução JavaScript que você pode usar para executar o Node.js
 
 
 ### Como rodar o código?? 
